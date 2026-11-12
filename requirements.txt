@@ -1,0 +1,7 @@
+text
+
+aiogram
+yfinance
+pandas
+anthropic
+tzdata
