@@ -1,5 +1,4 @@
 aiogram
-yfinance
-pandas
+yfinance>=0.2.50
+curl_cffi
 anthropic
-tzdata
